@@ -1,0 +1,2 @@
+# quantam
+shor's algorithm
